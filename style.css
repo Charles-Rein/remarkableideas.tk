@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  background: url("./34.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+body.hide-background {
+  background: none;
+}
+
+canvas {
+  display: block;
+}
